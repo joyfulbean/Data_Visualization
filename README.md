@@ -7,5 +7,6 @@
 ## build and Execution
 <code> python test.py </code>
 
+## 시연 영상 : https://www.youtube.com/watch?v=nqdzfn6Zif8
 
 
